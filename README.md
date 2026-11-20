@@ -14,7 +14,7 @@ Get the files from the latest release:
 |---|---|
 | Windows (64-bit) | `fedisdeck-windows-amd64.exe` |
 | Mac with an Apple chip (M1 or later) | `FedisDeck-Mac-M-chip.dmg` |
-| Linux (64-bit Intel/AMD) | `fedisdeck-linux-amd64.AppImage` (coming soon) |
+| Linux (64-bit Intel/AMD) | `fedisdeck-linux-amd64.AppImage` |
 
 ## Install
 
